@@ -5,7 +5,7 @@ public class I {
 
         for (int i = 0; i <=10; i++) {
             if(i%2==0){
-                System.out.print("even "+i);
+                System.out.println("even " +i);
                 continue;
             }
                 System.out.println();
@@ -13,6 +13,5 @@ public class I {
 
         }
     }
-
 
 
