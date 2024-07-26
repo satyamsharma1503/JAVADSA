@@ -1,4 +1,4 @@
-package CoreJavaProjects;
+package project1;
 
 import java.util.Scanner;
 
