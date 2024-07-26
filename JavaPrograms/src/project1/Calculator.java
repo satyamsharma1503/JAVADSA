@@ -26,7 +26,7 @@ public class Calculator{
                 System.out.println("the final result is "+number1 + " * "+number2 + " = "+result);
                 break;
             case '4':
-                result = number1 + number2;
+                result = number1 / number2;
                 System.out.println("the final result is "+number1 + " / "+number2 + " = "+result);
                 break;
             case '5':
