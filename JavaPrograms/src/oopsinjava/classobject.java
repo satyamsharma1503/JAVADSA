@@ -5,8 +5,8 @@ import java.util.Scanner;
 public class classobject {
     public static void main(String[] args){
 //        print the trainer name,
-//            Trainer trainerName= new trainerName();
-//            Trainer.trainerName= "Satyam";
+        Trainer trainerName= new Trainer();
+         Trainer.trainerName= "Satyam";
         Scanner sc = new Scanner(System.in);
         System.out.println("enter a name");
         Student.studentName =sc.nextLine();
@@ -16,7 +16,7 @@ public class classobject {
     }
 }
 class Trainer {
-    String trainerName;
+    static String trainerName;
     String trainertechnology;
 }
 //    int noofHoursComplete
