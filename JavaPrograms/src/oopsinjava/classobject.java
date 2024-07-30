@@ -6,7 +6,7 @@ public class classobject {
     public static void main(String[] args){
 //        print the trainer name,
         Trainer trainerName= new Trainer();
-         Trainer.trainerName= "Satyam";
+         Trainers.trainerName= "Satyam";
         Scanner sc = new Scanner(System.in);
         System.out.println("enter a name");
         Student.studentName =sc.nextLine();
@@ -15,7 +15,7 @@ public class classobject {
         System.out.println(Student.studentName+" this is my enrolled  " + Student.studentEnrolledTechnology);
     }
 }
-class Trainer {
+class Trainers {
     static String trainerName;
     String trainertechnology;
 }

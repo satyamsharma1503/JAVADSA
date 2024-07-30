@@ -1,6 +1,7 @@
 package oopsinjava;
 
 import javax.swing.*;
+import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
@@ -54,7 +55,13 @@ public class GUIJavaprogramSwing {
         // to visible the frame on screen
         frame.setVisible(true);
 
-
+bmiButton.addActionListener(new ActionListener() {
+    @Override
+    public void actionPerformed(ActionEvent e) {
+        float weight = Float.parseFloat(weightField.getText().toString());
+        float height = Float.parseFloat(heightField.getText().toString());
+    }
+});
 
         //to click on the bmi calculator
         bmiButton.addActionListener(new ActionListener() {
@@ -68,16 +75,21 @@ public class GUIJavaprogramSwing {
 
                 if(output < 18.5){
                     bmiLable.setText("in under weight ");
+                    bmiLable.setForeground(Color.lightGray);
                 }
                 else if (output > 18.5 && output < 24.9){
                     bmiLable.setText("In NORMAL");
+                    bmiLable.setForeground(Color.pink);
+
                 }
                 else if (output > 24.9 && output < 24.9){
                     bmiLable.setText("In overweight");
+                    bmiLable.setForeground(Color.green);
                 }
                 else {
 
                     bmiLable.setText("In obesity");
+                    bmiLable.setForeground(Color.RED);
                 }
             }
         });
