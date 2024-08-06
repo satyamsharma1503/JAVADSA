@@ -52,8 +52,8 @@ public class GUIsimplecalculator {
         plus.setBounds(10, 246, 50, 45);
         minus.setBounds(114, 246, 50, 45);
         divide.setBounds(166, 199, 50, 45);
-        multiply.setBounds(166, 155, 50, 22);
-        equals.setBounds(166, 178, 50, 22);
+        multiply.setBounds(166, 152, 50, 22);
+        equals.setBounds(166, 176, 50, 22);
         clear.setBounds(166, 105, 50, 22);
         dot.setBounds(166, 128, 50, 22);
         modulo.setBounds(166, 246, 50, 45);
@@ -126,7 +126,7 @@ public class GUIsimplecalculator {
         multiply.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-
+//
 
                 double num1 = Double.parseDouble((value.getText()));
                  operator = "*";
