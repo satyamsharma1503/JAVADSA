@@ -155,7 +155,7 @@ public class GUI_HotelBooking {
         frame.add(cityField);
 
 
-        JLabel state = new JLabel("Sate:-");
+        JLabel state = new JLabel("State:-");
         state.setBounds(20,360,70,30);
         JTextField stateField = new JTextField();
         stateField.setBounds(110,360,140,30);
