@@ -1,18 +1,13 @@
 import javax.swing.*;
 import javax.swing.border.LineBorder;
-import javax.swing.text.PlainView;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.awt.event.ItemEvent;
-import java.awt.event.ItemListener;
 import java.sql.*;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
-import java.time.chrono.JapaneseDate;
-import java.util.jar.JarOutputStream;
 
-public class example {
+public class RailwayRegistrationForm_to_create_in_java {
     public static void main(String[]args){
 
 
@@ -162,7 +157,7 @@ public class example {
                     dateField.setText("");
                     ageField.setText("");
                     emailField.setText("");
-                }
+                 }
             });
 
 
