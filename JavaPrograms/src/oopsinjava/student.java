@@ -8,8 +8,6 @@ public class student {
         profile.setAddress("Gorakhpur");
         profile.setMobilenumber(Long.parseLong("675352412"));
         System.out.println(profile.getName() +" "+ profile.getEmail()+" "+profile.getAddress()+" "+profile.getMobilenumber());
-
-
     }
 }
  class StudentProfile{

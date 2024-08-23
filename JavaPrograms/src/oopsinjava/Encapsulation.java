@@ -14,8 +14,8 @@ public class Encapsulation {
 
         trainer.setName("Chandresh");
         trainer.setEmail("chandresh324@gmail.com");
-        trainer.setTechnoligy("Python");
-        System.out.println(trainer.getName()+" "+ trainer.getEmail()+" "+ trainer.getTechnoligy());
+        trainer.setTechnology("Python");
+        System.out.println(trainer.getName()+" "+ trainer.getEmail()+" "+ trainer.getTechnology());
     }
 
 }
@@ -24,11 +24,11 @@ public class Encapsulation {
     String name;
     String email;
 
-      public String getTechnoligy() {
+      public String getTechnology() {
           return technoligy;
       }
 
-      public void setTechnoligy(String technoligy) {
+      public void setTechnology(String technoligy) {
           this.technoligy = technoligy;
       }
 

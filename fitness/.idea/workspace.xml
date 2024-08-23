@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0633ee6a-0bd2-4b8e-bfaf-02a2bd8b4949" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/css/steller.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/imgs/avatar-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/imgs/avatar-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/imgs/avatar-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/imgs/avatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/imgs/blog-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/imgs/blog-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/imgs/blog-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/imgs/folio-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/imgs/folio-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/imgs/folio-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/imgs/folio-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/imgs/folio-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/imgs/folio-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/imgs/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/imgs/man.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/js/steller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/abstracts/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/abstracts/_utilities.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/abstracts/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/base/_typography.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/components/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/components/_cards.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/components/_carousel.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/components/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/components/_googlemap.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/components/_navbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/components/_progressbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/layout/_footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/layout/_header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/layout/_section.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/steller.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_alert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_badge.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_breadcrumb.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_button-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_card.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_carousel.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_close.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_code.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_custom-forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_dropdown.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_functions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_images.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_input-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_jumbotron.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_media.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_modal.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_nav.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_navbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_popover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_print.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_progress.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_reboot.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_root.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_spinners.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_tables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_toasts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_tooltip.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_transitions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_type.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_utilities.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_alert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_background-variant.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_badge.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_border-radius.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_box-shadow.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_breakpoints.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_caret.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_clearfix.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_deprecate.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_float.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_gradients.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_grid-framework.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_hover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_image.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_lists.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_nav-divider.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_reset-text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_resize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_screen-reader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_size.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_table-row.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_text-emphasis.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_text-hide.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_text-truncate.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_transition.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_visibility.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/utilities/_align.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/utilities/_background.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/utilities/_borders.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/utilities/_clearfix.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/utilities/_display.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/utilities/_embed.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/utilities/_flex.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/utilities/_float.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/utilities/_overflow.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/utilities/_position.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/utilities/_screenreaders.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/utilities/_shadows.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/utilities/_sizing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/utilities/_spacing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/utilities/_stretched-link.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/utilities/_text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/utilities/_visibility.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/vendor/_rfs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/vendors/bootstrap/bootstrap.affix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/vendors/bootstrap/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/vendors/bootstrap/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/vendors/bootstrap/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/vendors/bootstrap/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/vendors/bootstrap/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/vendors/bootstrap/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/vendors/bootstrap/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/vendors/bootstrap/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/vendors/jquery/jquery-3.4.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/vendors/jquery/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/vendors/jquery/jquery-3.4.1.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/vendors/jquery/jquery-3.4.1.slim.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/vendors/jquery/jquery-3.4.1.slim.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/vendors/jquery/jquery-3.4.1.slim.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/vendors/themify-icons/css/themify-icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/vendors/themify-icons/fonts/themify.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/vendors/themify-icons/fonts/themify.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/vendors/themify-icons/fonts/themify.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/assets/vendors/themify-icons/fonts/themify.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/components.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJSP/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/class.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/about-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/b1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/b2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/c1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/c2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/client1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/client2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/facebook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/footer-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/hero-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/instagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/left-angle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/left-black-arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/linkedin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/location.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/mail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/next-arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/next-grey.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/play-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/prev-arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/prev-grey.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/prev.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/quote.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/right-angle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/right-black-arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/search-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/telephone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/twitter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/youtube.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../photo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../photo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../photo/src/main/webapp/ABOUT THIS TEMPLATE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../photo/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../photo/src/main/webapp/font/unicons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../photo/src/main/webapp/font/unicons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../photo/src/main/webapp/font/unicons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../photo/src/main/webapp/font/unicons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../photo/src/main/webapp/font/unicons.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../photo/src/main/webapp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../photo/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/css/foodhut.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/imgs/about-section.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/imgs/blog-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/imgs/blog-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/imgs/blog-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/imgs/blog-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/imgs/blog-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/imgs/blog-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/imgs/book-table-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/imgs/gallary-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/imgs/gallary-10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/imgs/gallary-11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/imgs/gallary-12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/imgs/gallary-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/imgs/gallary-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/imgs/gallary-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/imgs/gallary-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/imgs/gallary-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/imgs/gallary-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/imgs/gallary-8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/imgs/gallary-9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/imgs/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/imgs/main.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/js/foodhut.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/abstracts/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/abstracts/_utilities.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/abstracts/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/abstracts/mixins/_transitions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/base/_base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/base/_utilities.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/components/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/components/_card.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/components/_code.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/components/_custom-form.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/components/_navbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/foodhut.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/layout/_header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/layout/_sections.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_alert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_badge.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_breadcrumb.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_button-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_card.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_carousel.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_close.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_code.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_custom-forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_dropdown.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_functions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_images.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_input-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_jumbotron.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_media.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_modal.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_nav.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_navbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_popover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_print.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_progress.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_reboot.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_root.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_spinners.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_tables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_toasts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_tooltip.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_transitions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_type.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_utilities.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_alert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_background-variant.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_badge.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_border-radius.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_box-shadow.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_breakpoints.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_caret.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_clearfix.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_deprecate.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_float.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_gradients.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_grid-framework.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_hover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_image.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_lists.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_nav-divider.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_reset-text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_resize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_screen-reader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_size.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_table-row.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_text-emphasis.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_text-hide.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_text-truncate.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_transition.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/mixins/_visibility.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/utilities/_align.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/utilities/_background.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/utilities/_borders.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/utilities/_clearfix.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/utilities/_display.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/utilities/_embed.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/utilities/_flex.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/utilities/_float.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/utilities/_overflow.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/utilities/_position.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/utilities/_screenreaders.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/utilities/_shadows.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/utilities/_sizing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/utilities/_spacing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/utilities/_stretched-link.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/utilities/_text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/utilities/_visibility.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/scss/vendors/bootstrap-4.3.1/vendor/_rfs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/vendors/animate/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/vendors/bootstrap/bootstrap.affix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/vendors/bootstrap/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/vendors/bootstrap/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/vendors/bootstrap/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/vendors/bootstrap/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/vendors/bootstrap/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/vendors/bootstrap/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/vendors/bootstrap/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/vendors/bootstrap/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/vendors/jquery/jquery-3.4.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/vendors/jquery/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/vendors/jquery/jquery-3.4.1.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/vendors/jquery/jquery-3.4.1.slim.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/vendors/jquery/jquery-3.4.1.slim.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/vendors/jquery/jquery-3.4.1.slim.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/vendors/themify-icons/css/themify-icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/vendors/themify-icons/fonts/themify.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/vendors/themify-icons/fonts/themify.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/vendors/themify-icons/fonts/themify.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/vendors/themify-icons/fonts/themify.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/assets/vendors/wow/wow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/components.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resttorent/src/main/webapp/index.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2kalOyc4i3oR6UtypAg0TaWCs4J" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Smart Tomcat.Unname.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/github/JAVADSA/fitness/src/main/webapp&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\github\JAVADSA\fitness\src\main\webapp" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unname" type="com.poratu.idea.plugins.tomcat">
+      <predefined_log_file enabled="true" id="Tomcat Localhost Log" />
+      <predefined_log_file enabled="true" id="Tomcat Access Log" />
+      <predefined_log_file id="Tomcat Catalina Log" />
+      <predefined_log_file id="Tomcat Manager Log" />
+      <predefined_log_file id="Tomcat Host Manager Log" />
+      <option name="catalinaBase" value="C:\Users\91730\.SmartTomcat\fitness\fitness" />
+      <option name="contextPath" value="/fitness" />
+      <option name="docBase" value="$PROJECT_DIR$/src/main/webapp" />
+      <option name="extraClassPath" value="" />
+      <option name="port" value="8081" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat/10.1.28" />
+          <option name="path" value="$USER_HOME$/Downloads/apache-tomcat-10.1.28/apache-tomcat-10.1.28" />
+          <option name="version" value="10.1.28.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="" />
+      <module name="fitness" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0633ee6a-0bd2-4b8e-bfaf-02a2bd8b4949" name="Changes" comment="" />
+      <created>1723529539643</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723529539643</updated>
+    </task>
+    <servers />
+  </component>
+</project>
