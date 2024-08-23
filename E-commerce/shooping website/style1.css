@@ -1,0 +1,183 @@
+#header{
+    display:flex;
+    height: 10%;
+    align-items: center;
+    /* background-image: url(satyam12.jpg); */
+    background-color: rgb(158, 196, 160); 
+    justify-content: space-between;
+    padding: 0 10px;
+    /* background-color:rgb(139, 148, 159); */
+    box-shadow: 0 5px 15px rgb(red, rgb(45, 245, 45), rgb(163, 163, 182), alpha);
+    z-index: 999;
+    position:sticky;
+    top:0;
+    left:0;
+
+}
+#navbar{
+    display:flex;
+    align-items:stretch;
+    justify-content: centre;
+}
+#navbar li {
+    list-style: none;
+    padding: 0 30px;
+    position:relative;
+
+}
+#navbar li a {
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 600;
+    color: #2d2727;
+    transition: 0.1s ease-in;
+
+}
+#navbar li a:hover,
+#navbar li a.active {
+    color:rgb(153, 153, 223);
+}
+#navbar li a.active::after,
+#navbar li a:hover::after{
+    content: "";
+    width: 45%;
+    height: 5px;
+    background-color: blue;
+    position:absolute;
+    bottom: -4px;
+    left: 50px;
+    transition: 0.5s ease-in;
+
+
+}
+#hero{
+    /* background-image: url("file:///C:/Users/91730/Desktop/image/boy.webp"); */
+    /* background-image: url("https://img.freepik.com/free-photo/full-length-portrait-happy-family_171337-2281.jpg?w=2000");    */
+    background-image: url("satyam12.jpg");   
+    background-color: rgb(105, 134, 146); 
+    height: 100vh;
+    padding: 0;
+    width: 86.7%;
+    /* background-color:burlywood;  */
+    background-size:cover ;
+    background-position: top 20%  left 0;
+    position:absolute;
+    padding: 0 50px;
+    display:flex;
+    align-items: flex-start;
+    flex-direction:column;
+    justify-content: center;
+    column-width: 50%;
+    padding: 0 100px;
+    position:relative;
+}
+#hero h1{
+    color: rgb(14, 160, 114);
+    font-size: 300%;
+    font-weight: 100%;
+    
+}
+#hero h2{
+    padding-bottom: 0 50px;
+    font-weight: 200;
+    font-size: 70px;
+    color: blue
+
+}
+#hero .p {
+    font-size: 300%;
+    font-weight: 100%;
+}
+#hero button{
+    /* background-image: url("botton.png"); */
+    /* background-color: transparent; */
+    color:slateblue;
+    border-radius: 2px;
+    /* padding: 30px 100px 44px 80px ; */
+    background-repeat: no-repeat;
+    cursor: pointer;
+    font-weight: 10;
+    font-size: 20px;
+    list-style-type: 2px;
+}
+.section-p1{
+    /* padding: 1px 50px 60px; */
+    text-align: center;
+    font-size: 80px;
+    font-weight: 300%; 
+}
+/* #product1.section-p1{ */
+    /* font-size: 0px; */
+    /* font-weight: 300%; */
+/* }/ */
+#product1 .pro-container{
+    display:flex;
+    justify-content: space-between; 
+    padding-top: 80px; 
+
+}
+#product1 .pro-container{ 
+    background-color: #888824; 
+    width: 100%;
+    /* height: 150px;  */
+    /* min-width: 20px; */
+    /* padding: 100px; */
+    border:5px solid #252524
+    border-radius=10px;
+    /* cursor: pointer; */
+    /* box-shadow: 20px 20px 30px rgba(0 ,0 ,0 ,0.02); */
+    margin : 5px 0; 
+    transition: ease; 
+    /* position:relative; */
+    position: sticky;
+/* top: 20px; */
+} 
+#product1 .pro-container img {
+    display: flex; 
+    /* height:; */
+    /* width: 0px; */
+    image-orientation: none;  
+    /* image-rendering: auto;  */
+    /* border-radius: 30px;  */
+    /* width: 10%; */
+    /* height: 50px; */
+    /* border-radius: 50px rgb(72, 81, 90);  */
+    border-radius: 10px 100px / 120px;
+    height: 100px;  
+
+
+}
+#product1 .pro-container .des { 
+    text-align: start;
+    padding: 0;
+}
+#product1 .pro-container.des span{
+    color: #664535;
+    font-size: 120px;
+}
+#product1 .pro-container.des h2 {
+    padding: 2px;
+    color: #776776;
+    font-size: 40px;
+    font-weight: 10px;
+}
+#product1 .pro-container .des i{
+    font-size: 10px;
+    color: gold;
+
+}
+
+#product1 .pro-container.fast{   
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 50px;
+    background-color: #888824;
+    font-weight: 500;
+    color: #8a3434;
+    border-radius:1px solid #cce7cc;
+    position:absolute;
+    bottom: 20px;
+    right:10px;
+}   
+
