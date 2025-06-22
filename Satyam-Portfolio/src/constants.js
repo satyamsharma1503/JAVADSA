@@ -172,32 +172,11 @@ export const projects = [
       "Developing a calculator clone using HTML, CSS, and JavaScript involves creating a simple yet functional UI with buttons for numbers and operations. The HTML handles the structure, CSS styles the layout for a clean and intuitive interface, and JavaScript manages the logic for performing calculations like addition, subtraction, multiplication, and division, updating the display dynamically as users interact",
     image: Calculator,
     tags: ["HTML", "CSS", "JavaScript"],
-    github: "https://github.com/codingmastr/cmtk-email-validator",
+    github: "https://github.com/satyamsharma1503/JAVADSA/tree/main/calculator",
     webapp: "https://satyamsharmaportfolio12.netlify.app/calculator/calculator",
   },
   {
     id: 2,
-    title: "Movie Recommendation App",
-    description:
-      "A React-based web application that provides movie recommendations based on different criteria, such as genres, user preferences, and popular trends. The intuitive design and smooth experience make it a go-to app for movie enthusiasts.",
-    image: movierecLogo,
-    tags: ["React JS", "API", "HTML", "CSS", "JavaScript"],
-    github: "https://github.com/codingmastr/Movie-Recommendation-App",
-    webapp: "https://movie-recommendation-app-jet.vercel.app/",
-  },
-  {
-    id: 3,
-    title: "GitHub Profile Detective",
-    description:
-      "A powerful and user-friendly React.js application designed to uncover and showcase detailed GitHub profile information. Simply enter a GitHub username, and the app fetches comprehensive data, including profile stats, repositories, followers, and contributions. The intuitive interface ensures a seamless experience, making it a must-visit tool for developers and recruiters.",
-    image: githubdetLogo,
-    tags: ["HTML", "CSS", "JavaScript", "React JS", "API"],
-    github:
-      "https://github.com/codingmastr/GitHub-Profile-Search-App-Using-React-JS",
-    webapp: "https://githubprofiledetective.netlify.app/",
-  },
-  {
-    id: 4,
     title: "GUI Hotel Booking Form",
     description:
       "Developing a GUI hotel booking form in Java involves creating a user-friendly interface using Swing . The form typically includes fields for entering guest details, selecting room types, check-in/check-out dates, and payment options. Buttons for submitting or resetting the form are essential. The interface should be intuitive, with input validation and clear navigation to enhance the user experience.",
@@ -208,7 +187,7 @@ export const projects = [
     webapp: "chrome://extensions/?id=kngheeibjnnidhfoomkpnbeghackheci",
   },
   {
-    id: 5,
+    id: 3,
     title: "GUI Railway Registation Form",
     description:
       "Creating a GUI railway registration form in Java involves using Swing components like JFrame for the main window, JPanel for organizing elements, and JTextField and JComboBox for input fields such as name, age, gender, and travel class. JButton triggers actions like form submission, while JLabel provides descriptive text. Layout managers like GridLayout or FlowLayout arrange components neatly.",
@@ -219,7 +198,7 @@ export const projects = [
     webapp: "https://webversedigital.com/",
   },
   {
-    id: 6,
+    id: 4,
     title: "JobPortal Website",
     description:
       "A job portal website built with React offers user-friendly navigation, advanced job search filters, and secure account management. It enables users to post resumes, apply for jobs, and connect with recruiters, streamlining the recruitment process efficiently and effectively.",
@@ -236,7 +215,7 @@ export const projects = [
       "A React.js-based image search application that allows users to search and download high-quality images from the web. Built using external APIs to ensure a vast library of results for various queries.",
     image: imagesearchLogo,
     tags: ["React JS", "API", "Search Feature", "CSS", "Javascript"],
-    github: "https://github.com/codingmastr/Image-Search-App",
+    github: "https://github.com/satyamsharma1503/JAVADSA/tree/main/Search-Image",
     webapp: "https://imagsearch.netlify.app/",
   },
 ];
