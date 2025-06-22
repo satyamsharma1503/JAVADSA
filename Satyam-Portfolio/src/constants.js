@@ -209,7 +209,7 @@ export const projects = [
     webapp: "https://codingmasterweb.in/",
   },
   {
-    id: 7,
+    id: 5,
     title: "Image Search App",
     description:
       "A React.js-based image search application that allows users to search and download high-quality images from the web. Built using external APIs to ensure a vast library of results for various queries.",
