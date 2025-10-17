@@ -172,7 +172,7 @@ export const projects = [
       "Developing a calculator clone using HTML, CSS, and JavaScript involves creating a simple yet functional UI with buttons for numbers and operations. The HTML handles the structure, CSS styles the layout for a clean and intuitive interface, and JavaScript manages the logic for performing calculations like addition, subtraction, multiplication, and division, updating the display dynamically as users interact",
     image: Calculator,
     tags: ["HTML", "CSS", "JavaScript"],
-    github: "https://github.com/codingmastr/cmtk-email-validator",
+    github: "https://github.com/satyamsharma1503/JAVADSA/tree/main/calculator",
     webapp: "https://satyamsharmaportfolio12.netlify.app/calculator/calculator",
   },
   {
@@ -214,8 +214,13 @@ export const projects = [
     description:
       "A React.js-based image search application that allows users to search and download high-quality images from the web. Built using external APIs to ensure a vast library of results for various queries.",
     image: imagesearchLogo,
+<<<<<<< HEAD
     tags: ["React JS", "API", "Search Feature","Tailwind CSS"],
     github:"https://github.com/satyamsharma1503/JAVADSA/tree/main/Search-Image",
+=======
+    tags: ["React JS", "API", "Search Feature", "CSS", "Javascript"],
+    github: "https://github.com/satyamsharma1503/JAVADSA/tree/main/Search-Image",
+>>>>>>> 3b6c9587b683a3cfd382eb1f3c14957c04d3b343
     webapp: "https://imagsearch.netlify.app/",
   },
 ];

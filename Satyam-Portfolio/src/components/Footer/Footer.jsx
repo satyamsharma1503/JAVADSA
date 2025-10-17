@@ -40,7 +40,7 @@ const Footer = () => {
           {[
             { icon: <FaFacebook />, link: "https://www.facebook.com" },
             { icon: <FaTwitter />, link: "https://twitter.com" },
-            { icon: <FaLinkedin />, link: "https://www.linkedin.com" },
+            { icon: <FaLinkedin />, link: "https://www.linkedin.com/in/satyam-sharma-955206242" },
             { icon: <FaInstagram />, link: "https://www.instagram.com" },
             { icon: <FaYoutube />, link: "https://www.youtube.com" },
             
